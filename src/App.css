@@ -1,0 +1,12 @@
+
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 60px);
+}
